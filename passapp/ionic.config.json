@@ -1,0 +1,7 @@
+{
+  "name": "passapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

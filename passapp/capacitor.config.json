@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "passapp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
